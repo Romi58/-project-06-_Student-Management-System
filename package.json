@@ -1,0 +1,19 @@
+{
+  "name": "-project-06-_student-management-system",
+  "version": "1.0.0",
+  "description": "This project is a simple console based Student Management System.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
